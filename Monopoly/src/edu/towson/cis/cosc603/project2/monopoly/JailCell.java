@@ -19,6 +19,6 @@ public class JailCell extends Cell {
 	 * @see edu.towson.cis.cosc442.project1.monopoly.Cell#playAction()
 	 */
 	public Boolean playAction(String msg) {
-    	return false;
+    	return false;	
 	}
 }

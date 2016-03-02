@@ -57,5 +57,5 @@ public class UtilityCell extends Cell {
 			}
 		}
     	return false;
-    	}
+	}
 }
